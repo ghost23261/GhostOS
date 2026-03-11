@@ -1,4 +1,4 @@
-plugins { id 'com.android.application' }
+plugins { id 'com.android.application' version '8.1.1' }
 android {
     namespace 'com.ghost23261.os'
     compileSdk 34
