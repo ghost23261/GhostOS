@@ -1,0 +1,4 @@
+Ghost OS is an advanced multi-distro terminal and hacking lab.
+- Native Kali NetHunter & Debian LFS environments.
+- 7 Additional Proot Distros (Arch, Alpine, Ubuntu, etc.)
+- APK Reverse Engineering Factory.
